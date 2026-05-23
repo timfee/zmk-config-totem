@@ -49,7 +49,7 @@
             //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛   ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
 
             bindings = <
-                &kp Q    &kp W  &kp E             &kp R             &kp T                 &kp Y           &kp U                &kp I          &kp O       &kp P
+                &lt 1 Q  &kp W  &kp E             &kp R             &kp T                 &kp Y           &kp U                &kp I          &kp O       &kp P
                 &kp A    &kt S  &kp D             &kp F             &kp G                 &kp H           &kp J                &kp K          &kp L       &kp SEMICOLON
 &kp LEFT_SHIFT  &lt 2 Z  &kp X  &kp C             &kp V             &kp B                 &kp N           &kp M                &kp COMMA      &kp PERIOD  &lt 2 SLASH    &lt 1 SQT
                                 &mt RCTRL ESCAPE  &mt LEFT_ALT DEL  &mt LGUI BACKSPACE    &mt RGUI SPACE  &mt RIGHT_ALT ENTER  &mt RCTRL TAB
