@@ -80,7 +80,7 @@
             bindings = <
         &kp NUMBER_1          &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4      &kp N5               &kp NUMBER_6  &kp N7    &kp N8        &kp N9     &kp N0
         &kp NON_US_BACKSLASH  &kp GRAVE     &trans        &kp LEFT_BRACKET  &kp RIGHT_BRACKET    &kp LEFT      &kp DOWN  &kp UP_ARROW  &kp RIGHT  &kp MINUS
-&trans  &kp F1                &kp F2        &kp F3        &kp F4            &kp LPAR             &kp F6        &kp F7    &kp F8        &kp F9     &kp EQUAL  &trans
+&trans  &kp F1                &kp F2        &kp F3        &kp F4            &kp F5               &kp F6        &kp F7    &kp F8        &kp F9     &kp EQUAL  &trans
                                             &trans        &trans            &trans               &trans        &trans    &trans
             >;
         };
